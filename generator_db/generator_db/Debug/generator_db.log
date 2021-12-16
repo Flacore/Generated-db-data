@@ -1,0 +1,33 @@
+﻿  generator_db.cpp
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(35,16): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(38,16): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(41,16): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(44,16): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(47,16): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(4532,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(4536,55): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(4539,58): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(4542,51): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(4545,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\conversation.h(12,32): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\conversation.h(20,69): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\conversation.h(47,59): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\group.h(21,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\group.h(25,36): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\group.h(61,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\group.h(81,59): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\notification.h(9,80): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\person.h(15,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\person.h(16,80): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\person.h(17,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\person.h(40,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\person.h(45,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\person.h(53,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\person.h(61,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\post.h(19,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\post.h(37,58): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator_db.cpp(39,12): warning C4101: 'generator': unreferenced local variable
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator_db.cpp(96,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator_db.cpp(110,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\generator_db\generator.h(50): warning C4715: 'generator::generate_city': not all control paths return a value
+  generator_db.vcxproj -> G:\Semester 7\PDS\Semestralne prace\Sociálna sieť\DB\generated data script\Help\generator_db\Debug\generator_db.exe
